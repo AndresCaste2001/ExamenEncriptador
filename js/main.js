@@ -11,10 +11,11 @@ function validacionCaracteresEspceciales(cadena){
 }
 
 myForm.addEventListener("submit", function(e){
+    
     let btn = e.submitter.dataset.accion
     let data = Object.fromEntries(new FormData(e.target));
-    let rta = validacionCaracteresEspceciales(p.innerHTML);
-    if (!rta){
+    
+    
         if(btn=="encrypt") {
             form_ouput.classList.remove("active")
             form_ouput__menssage.classList.add("active")
@@ -24,9 +25,7 @@ myForm.addEventListener("submit", function(e){
             form_ouput__menssage.classList.add("active")
             p.innerHTML = decrypt(data);
         }
-    }else{
-        p.innerHTML = "Contiene Caracteres Especiales"
-    }
+
     
     e.preventDefault();
 })
