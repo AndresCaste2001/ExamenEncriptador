@@ -3,6 +3,17 @@ El equipo está enfrentando un desafío de cuatro horas para desarrollar una apl
 
 
 
+Mensaje Secreto para Desencriptar:
+
+
+
+
+¡Fenterlimescimesdaidenters, hais lobergraidober dentersbloberqufatenterair enterstenter menternsaijenter!
+
+
+
+
+
 	Recurso UX/UI: https://drive.google.com/file/d/1Dl1wFxWSguNAbO8viElw-ZFrlGHmZqYp/view?usp=sharing  
 
 
@@ -55,10 +66,3 @@ Resultado Esperado:
 Al finalizar las cuatro horas, se espera que el equipo entregue una aplicación completamente funcional que permita a los usuarios encriptar y desencriptar textos de manera fácil y eficiente, cumpliendo con todos los requisitos técnicos y de interfaz propuestos. Además, se valorará la creatividad en la solución implementada y la capacidad de gestionar efectivamente el tiempo y los recursos disponibles.
 
 
-
-Mensaje Secreto para Desencriptar:
-
-
-
-
-¡Fenterlimescimesdaidenters, hais lobergraidober dentersbloberqufatenterair enterstenter menternsaijenter!
